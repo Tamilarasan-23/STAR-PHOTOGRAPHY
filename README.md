@@ -12,4 +12,3 @@ Edit event details like title and description in the CMS.
 Notes
 Ensure media is high quality (JPG, PNG, MP4).
 Inspired by a clean, contemporary design.
-For support, contact support@eventphoto.com. Capture your memories in style!
